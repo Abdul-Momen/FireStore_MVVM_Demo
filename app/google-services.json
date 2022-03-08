@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "899436760885",
+    "firebase_url": "https://mvvm-with-firebase-10a89-default-rtdb.firebaseio.com",
+    "project_id": "mvvm-with-firebase-10a89",
+    "storage_bucket": "mvvm-with-firebase-10a89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899436760885:android:f8f108f1c8f55ac7c9c67c",
+        "android_client_info": {
+          "package_name": "com.momen.firestore_mvvm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899436760885-erj88u1td4mihqpfct736gvo6t8m5orv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.momen.firestore_mvvm",
+            "certificate_hash": "615fa954a30b11876bf12d715b97bcabd4327a9a"
+          }
+        },
+        {
+          "client_id": "899436760885-pmgo30nhsk0l2rolnlcs3qiv1nutd778.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfgOD2P7JPprPUufs2T-Av7pPMDipHufo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899436760885-pmgo30nhsk0l2rolnlcs3qiv1nutd778.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
